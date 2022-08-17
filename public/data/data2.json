@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "itemName": "구름폭신필로우_라이언",
+    "itemImg": "https://t1.daumcdn.net/friends/prod/product/20201020152815054_8809721505908_AW_00.jpg?type=thumb&opt=R103x103@2xa",
+    "itemPrice": 39000
+  },
+  {
+    "id": 2,
+    "itemName": "구름폭신필로우_어피치",
+    "itemImg": "https://t1.daumcdn.net/friends/prod/product/20201020152804391_8809721505915_AW_00.jpg?type=thumb&opt=R103x103@2xa",
+    "itemPrice": 39000
+  },
+  {
+    "id": 3,
+    "itemName": "구름폭신필로우_무지",
+    "itemImg": "https://t1.daumcdn.net/friends/prod/product/20201020152905998_8809721505922_AW_00.jpg?type=thumb&opt=R103x103@2xa",
+    "itemPrice": 39000
+  }
+]
